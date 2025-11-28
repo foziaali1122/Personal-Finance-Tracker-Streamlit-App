@@ -24,7 +24,7 @@ Track your **income, expenses, and investments**, get insights, and manage your 
 
 ## 🚀 Screenshots
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](https://github.com/foziaali1122/Personal-Finance-Tracker-Streamlit-App/blob/master/Screenshot_28-11-2025_143339_localhost.jpeg)
 
 > The dashboard shows statistics, insights, and category-wise charts.
 
