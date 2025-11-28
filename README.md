@@ -22,7 +22,17 @@ Track your **income, expenses, and investments**, get insights, and manage your 
 
 ---
 
-## 🚀 Screenshots
+### 📝 What I Learned
+
+- During this project, I learned how to:
+- Build a fully interactive Streamlit dashboard
+- Implement OOP concepts in Python (Transaction, Income, Expense, Investment classes)
+- Handle persistent data storage using CSV
+- Perform financial calculations and analytics
+- Enhance user experience with professional layouts and charts
+-This project strengthened my Python, Streamlit, and data handling skills while giving me practical exposure to personal finance tracking applications.
+
+## 🚀 Screenshot
 
 ![Dashboard Screenshot](https://github.com/foziaali1122/Personal-Finance-Tracker-Streamlit-App/blob/master/Screenshot_28-11-2025_143339_localhost.jpeg)
 
@@ -37,3 +47,4 @@ Track your **income, expenses, and investments**, get insights, and manage your 
 
 ```bash
 py -3.11 -m pip install streamlit pandas matplotlib
+
