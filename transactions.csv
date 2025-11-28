@@ -1,0 +1,6 @@
+id,date,type,amount,category,note
+655970bf-c5fc-4755-9c5a-1ab5d7e176ba,2025-11-28 00:00:00,Income,1200000.0,Salary,
+d53511fd-e27f-4e72-bac9-537b45178bcf,,Expense,50000.0,"Groceries , Rent , Stocks",
+9e361fca-6d5a-4969-aba7-8fb250e41c35,,Investment,500000.0,Salary,
+d470779e-d731-45ca-bb9c-c8afaada8d31,,Expense,600000.0,Rent,
+a1f2d142-965e-48e5-a27a-b61040a352c4,2025-11-28,Income,500000.0,Salary,
